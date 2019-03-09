@@ -2,12 +2,12 @@
 
 * [Introduction](README.md)
 
-- Python基础
+- [Python基础](chapter1/1.3Python基础.md)
 
-- [获取帮助](第一章/1.1获取帮助.md)
+- [获取帮助](chapter1/1.1获取帮助.md)
 
-- [Python安装](第一章/1.2Python安装.md)
-- [Python基础](第一章/1.3Python基础.md)
-- [Jupyter lab](第一章/Jupyter_lab.md)
+- [Python安装](chapter1/1.2Python安装.md)
+- [Python基础](chapter1/1.3Python基础.md)
+- [Jupyter lab](chapter1/Jupyter_lab.md)
 - 
 
