@@ -8,7 +8,7 @@
 
 * [Python基础](chapter1/1.3Python基础.md)
 
-* [Jupyter lab](chapter1/Jupyter_lab.md)
-* 
+* \[JupyterLab\]\(chapter1/1.4 JupyterLab.md\)
+
 
 
